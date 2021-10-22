@@ -1,5 +1,26 @@
 {
     "destinations":{
-        
-    }
+        "Bali": {
+            "Option_1":["7:00am", 100],
+            "Option_2":["8:45am", 125],
+            "Option_3":["3:45pm", 250]
+        },
+        "New_York":{
+            "Option_1":["5:45am", 145],
+            "Option_2":["10:15am", 375],
+            "Option_3":["6:00pm", 250]
+        },
+        "Paris":{
+            "Option_1":["7:00am", 100],
+            "Option_2":["8:45am", 125],
+            "Option_3":["3:45pm", 250]
+       },
+        "Shanghai":{
+            "Option_1":["4:30am", 200],
+            "Option_2":["12:30pm", 225],
+            "Option_3":["4:15pm", 340]
+        }
+
+    } 
+    
 }
