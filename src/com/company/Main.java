@@ -17,7 +17,7 @@ public class Main {
 
         Object obj = jsonParser.parse(reader);
 
-        JSONObject 
+        JSONObject
         // The user can choose from the selection which one they want to purchase.
             // Destination, time, price variables must be accounted.
 
